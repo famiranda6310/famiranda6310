@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.tiktok.com/@romiranda6310?is_from_webapp=1&sender_device=pc">Fabián Miranda</a> 👋</h1>
 </div>
-<img src="/banner1.png">
+<img src="/Banner2024.png">
 
 ## Sobre mí  
 
