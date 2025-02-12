@@ -24,6 +24,6 @@
 </p>
 
 ### 📌 Contacto  
-📩 **Email:** famiranda6310@gmail.com  
+📩 **Email:** romiranda6310@gmail.com 
 📷 **TikTok:** [@romiranda6310](https://www.tiktok.com/@romiranda6310)  
 
